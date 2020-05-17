@@ -1,7 +1,7 @@
 # Site
 name: "Anil"
 title: "Blogger"
-description: "I will take you on the fabulous world of Cyber Security. Awareness, Prevention, Caution. Safty, configutaions, Hacking!"
+description: "Cyber Security Awareness is the Key to Data Security & Prevention of Cyber Crimes !"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /iSafe
@@ -19,18 +19,18 @@ authors:
     display_name: Anil
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: imanilsaini@gmail.com
-    web: https://www.wowthemes.net/donate/
+    web: https://www.linkedin.com/in/ansaini/
     twitter: https://twitter.com/imanilsaini
-    description: "Cyber Security Practicener"
-  john:
-    name: John
-    display_name: John
+    description: "Cyber Security Awareness"
+  Anikool:
+    name: Anikool
+    display_name: Anikool
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: " You are currently previewing Mediumish demo."
+    email: anikool.saini@gmail.com
+    web: https://www.linkedin.com/in/ansaini/
+    twitter: https://twitter.com/imanilsaini
+    description: "Cyber Security Awareness"
 
 # Plugins
 plugins:
