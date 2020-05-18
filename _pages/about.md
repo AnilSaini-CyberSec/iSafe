@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iSafe : Information Security Awareness for Everyone
+title: iSafe - Information Security Awareness for Everyone
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
